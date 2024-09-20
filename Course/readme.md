@@ -4,3 +4,10 @@ sch: https://www.youtube.com/@freecodecamp/search?query=Flutter
 - [Flutter & Firebase Course - Build a Full Stack Instagram Clone](https://youtu.be/mEPm9w5QlJM)
 - [Flutter Tutorial - Full Course - Project Based](https://youtu.be/OO_-MbnXQzY)
 - [The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced](https://youtu.be/CzRQ9mnmh44)
+
+# by:
+## [Net Ninja]()
+Flutter Masterclass
+- cost: $10
+- Home: https://netninja.dev/p/flutter-masterclass
+  - [New Flutter Masterclass Course!](https://youtu.be/LtlsX_lCfK4)
